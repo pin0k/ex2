@@ -1,0 +1,4 @@
+<?
+$MESS["PRINT_PARAM1"] = "PARAM1 = #PARAM1#";
+$MESS["PRINT_PARAM2"] = "PARAM2 = #PARAM2#";
+?>
